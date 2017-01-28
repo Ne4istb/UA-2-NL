@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class UA2NLPage {
+export class Ua2NlPage {
   navigateTo() {
     return browser.get('/');
   }

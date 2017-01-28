@@ -1,10 +1,10 @@
-import { UA2NLPage } from './app.po';
+import { Ua2NlPage } from './app.po';
 
 describe('ua2-nl App', function() {
-  let page: UA2NLPage;
+  let page: Ua2NlPage;
 
   beforeEach(() => {
-    page = new UA2NLPage();
+    page = new Ua2NlPage();
   });
 
   it('should display message saying app works', () => {
